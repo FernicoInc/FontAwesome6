@@ -2,7 +2,7 @@
 
 	<PropertyGroup>
 		<OutputType>WinExe</OutputType>
-		<TargetFramework>net5.0-windows</TargetFramework>
+		<TargetFrameworks>net5.0-windows;net6.0-windows;net7.0-windows;net8.0-windows;net9.0-windows;</TargetFrameworks>
 		<UseWPF>true</UseWPF>
 		<RootNamespace>FontAwesome6.Example.WPF</RootNamespace>
 		<Configurations>Debug;Release;DebugPro;ReleasePro</Configurations>
